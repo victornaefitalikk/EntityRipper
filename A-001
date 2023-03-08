@@ -1,0 +1,300 @@
+if game.ReplicatedStorage.GameData.LatestRoom.Value <= 0 then
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Text = "A-001"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Highlight.Text = "A-001"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Shadow.Text = "A-001"
+end
+
+if game.ReplicatedStorage.GameData.LatestRoom.Value >= 1 then
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Text = "A-002"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Highlight.Text = "A-002"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Shadow.Text = "A-002"
+end
+
+if game.ReplicatedStorage.GameData.LatestRoom.Value >= 2 then
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Text = "A-003"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Highlight.Text = "A-003"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Shadow.Text = "A-003"
+end
+
+if game.ReplicatedStorage.GameData.LatestRoom.Value >= 3 then
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Text = "A-004"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Highlight.Text = "A-004"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Shadow.Text = "A-004"
+end
+
+if game.ReplicatedStorage.GameData.LatestRoom.Value >= 4 then
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Text = "A-005"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Highlight.Text = "A-005"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Shadow.Text = "A-005"
+end
+
+if game.ReplicatedStorage.GameData.LatestRoom.Value >= 5 then
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Text = "A-006"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Highlight.Text = "A-006"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Shadow.Text = "A-006"
+end
+
+if game.ReplicatedStorage.GameData.LatestRoom.Value >= 6 then
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Text = "A-007"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Highlight.Text = "A-007"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Shadow.Text = "A-007"
+end
+
+if game.ReplicatedStorage.GameData.LatestRoom.Value >= 7 then
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Text = "A-008"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Highlight.Text = "A-008"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Shadow.Text = "A-008"
+end
+
+if game.ReplicatedStorage.GameData.LatestRoom.Value >= 8 then
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Text = "A-009"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Highlight.Text = "A-009"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Shadow.Text = "A-009"
+end
+
+if game.ReplicatedStorage.GameData.LatestRoom.Value >= 9 then
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Text = "A-010"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Highlight.Text = "A-010"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Shadow.Text = "A-010"
+end
+
+if game.ReplicatedStorage.GameData.LatestRoom.Value >= 10 then
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Text = "A-011"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Highlight.Text = "A-011"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Shadow.Text = "A-011"
+end
+
+if game.ReplicatedStorage.GameData.LatestRoom.Value >= 11 then
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Text = "A-012"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Highlight.Text = "A-012"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Shadow.Text = "A-012"
+end
+
+if game.ReplicatedStorage.GameData.LatestRoom.Value >= 11 then
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Text = "A-012"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Highlight.Text = "A-012"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Shadow.Text = "A-012"
+end
+
+if game.ReplicatedStorage.GameData.LatestRoom.Value >= 12 then
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Text = "A-013"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Highlight.Text = "A-013"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Shadow.Text = "A-013"
+end
+
+if game.ReplicatedStorage.GameData.LatestRoom.Value >= 13 then
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Text = "A-014"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Highlight.Text = "A-014"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Shadow.Text = "A-014"
+end
+
+if game.ReplicatedStorage.GameData.LatestRoom.Value >= 14 then
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Text = "A-015"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Highlight.Text = "A-015"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Shadow.Text = "A-015"
+end
+
+if game.ReplicatedStorage.GameData.LatestRoom.Value >= 15 then
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Text = "A-016"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Highlight.Text = "A-016"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Shadow.Text = "A-016"
+end
+
+if game.ReplicatedStorage.GameData.LatestRoom.Value >= 16 then
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Text = "A-017"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Highlight.Text = "A-017"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Shadow.Text = "A-017"
+end
+
+if game.ReplicatedStorage.GameData.LatestRoom.Value >= 17 then
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Text = "A-018"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Highlight.Text = "A-018"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Shadow.Text = "A-018"
+end
+
+if game.ReplicatedStorage.GameData.LatestRoom.Value >= 18 then
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Text = "A-019"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Highlight.Text = "A-019"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Shadow.Text = "A-019"
+end
+
+if game.ReplicatedStorage.GameData.LatestRoom.Value >= 19 then
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Text = "A-020"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Highlight.Text = "A-020"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Shadow.Text = "A-020"
+end
+
+if game.ReplicatedStorage.GameData.LatestRoom.Value >= 20 then
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Text = "A-021"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Highlight.Text = "A-021"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Shadow.Text = "A-021"
+end
+
+if game.ReplicatedStorage.GameData.LatestRoom.Value >= 21 then
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Text = "A-022"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Highlight.Text = "A-022"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Shadow.Text = "A-022"
+end
+
+if game.ReplicatedStorage.GameData.LatestRoom.Value >= 22 then
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Text = "A-023"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Highlight.Text = "A-023"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Shadow.Text = "A-023"
+end
+
+if game.ReplicatedStorage.GameData.LatestRoom.Value >= 23 then
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Text = "A-024"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Highlight.Text = "A-024"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Shadow.Text = "A-024"
+end
+
+if game.ReplicatedStorage.GameData.LatestRoom.Value >= 24 then
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Text = "A-025"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Highlight.Text = "A-025"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Shadow.Text = "A-025"
+end
+
+
+if game.ReplicatedStorage.GameData.LatestRoom.Value >= 25 then
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Text = "A-026"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Highlight.Text = "A-026"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Shadow.Text = "A-026"
+end
+
+if game.ReplicatedStorage.GameData.LatestRoom.Value >= 26 then
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Text = "A-027"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Highlight.Text = "A-027"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Shadow.Text = "A-027"
+end
+
+if game.ReplicatedStorage.GameData.LatestRoom.Value >= 27 then
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Text = "A-028"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Highlight.Text = "A-028"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Shadow.Text = "A-028"
+end
+
+if game.ReplicatedStorage.GameData.LatestRoom.Value >= 28 then
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Text = "A-029"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Highlight.Text = "A-029"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Shadow.Text = "A-029"
+end
+
+if game.ReplicatedStorage.GameData.LatestRoom.Value >= 29 then
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Text = "A-030"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Highlight.Text = "A-030"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Shadow.Text = "A-030"
+end
+
+if game.ReplicatedStorage.GameData.LatestRoom.Value >= 30 then
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Text = "A-031"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Highlight.Text = "A-031"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Shadow.Text = "A-031"
+end
+
+if game.ReplicatedStorage.GameData.LatestRoom.Value >= 31 then
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Text = "A-032"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Highlight.Text = "A-032"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Shadow.Text = "A-032"
+end
+
+if game.ReplicatedStorage.GameData.LatestRoom.Value >= 32 then
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Text = "A-033"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Highlight.Text = "A-033"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Shadow.Text = "A-033"
+end
+
+if game.ReplicatedStorage.GameData.LatestRoom.Value >= 33 then
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Text = "A-034"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Highlight.Text = "A-034"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Shadow.Text = "A-034"
+end
+
+if game.ReplicatedStorage.GameData.LatestRoom.Value >= 34 then
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Text = "A-035"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Highlight.Text = "A-035"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Shadow.Text = "A-035"
+end
+
+if game.ReplicatedStorage.GameData.LatestRoom.Value >= 35 then
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Text = "A-036"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Highlight.Text = "A-036"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Shadow.Text = "A-036"
+end
+
+if game.ReplicatedStorage.GameData.LatestRoom.Value >= 36 then
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Text = "A-037"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Highlight.Text = "A-037"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Shadow.Text = "A-037"
+end
+
+if game.ReplicatedStorage.GameData.LatestRoom.Value >= 37 then
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Text = "A-038"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Highlight.Text = "A-038"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Shadow.Text = "A-038"
+end
+
+if game.ReplicatedStorage.GameData.LatestRoom.Value >= 38 then
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Text = "A-039"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Highlight.Text = "A-039"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Shadow.Text = "A-039"
+end
+
+if game.ReplicatedStorage.GameData.LatestRoom.Value >= 39 then
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Text = "A-040"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Highlight.Text = "A-040"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Shadow.Text = "A-040"
+end
+
+if game.ReplicatedStorage.GameData.LatestRoom.Value >= 40 then
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Text = "A-041"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Highlight.Text = "A-041"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Shadow.Text = "A-041"
+end
+
+if game.ReplicatedStorage.GameData.LatestRoom.Value >= 41 then
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Text = "A-042"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Highlight.Text = "A-042"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Shadow.Text = "A-042"
+end
+
+if game.ReplicatedStorage.GameData.LatestRoom.Value >= 42 then
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Text = "A-043"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Highlight.Text = "A-043"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Shadow.Text = "A-043"
+end
+
+if game.ReplicatedStorage.GameData.LatestRoom.Value >= 43 then
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Text = "A-044"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Highlight.Text = "A-044"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Shadow.Text = "A-044"
+end
+
+if game.ReplicatedStorage.GameData.LatestRoom.Value >= 44 then
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Text = "A-045"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Highlight.Text = "A-045"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Shadow.Text = "A-045"
+end
+
+if game.ReplicatedStorage.GameData.LatestRoom.Value >= 45 then
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Text = "A-046"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Highlight.Text = "A-046"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Shadow.Text = "A-046"
+end
+
+if game.ReplicatedStorage.GameData.LatestRoom.Value >= 46 then
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Text = "A-047"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Highlight.Text = "A-047"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Shadow.Text = "A-047"
+end
+
+if game.ReplicatedStorage.GameData.LatestRoom.Value >= 47 then
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Text = "A-048"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Highlight.Text = "A-048"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Shadow.Text = "A-048"
+end
+
+if game.ReplicatedStorage.GameData.LatestRoom.Value >= 48 then
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Text = "A-049"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Highlight.Text = "A-049"
+   workspace.CurrentRooms[game.ReplicatedStorage.GameData.LatestRoom.Value].Door.Sign.Stinker.Shadow.Text = "A-049"
+end
